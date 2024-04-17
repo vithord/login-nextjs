@@ -1,0 +1,10 @@
+.card{
+    background-color: #f0f0f0;
+    width: 400px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.title{
+    text-align: center;
+}
