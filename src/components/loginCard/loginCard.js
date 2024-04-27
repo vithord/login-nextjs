@@ -1,5 +1,5 @@
 import styles from './loginCard.module.css'
-import Input from './Input/input'
+
 export default function LoginCard({ title, children }) {
   return (
      <div className={styles.card}>

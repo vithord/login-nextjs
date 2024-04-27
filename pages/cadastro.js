@@ -6,7 +6,7 @@ import Link from 'next/link'
 
 import styles from '../styles/Login.module.css'
 import LoginCard from "../src/components/loginCard/loginCard";
-import Input from '../src/components/loginCard/Input/input';
+import Input from '../src/components/loginCard/Input/Input';
 import Button from '../src/components/loginCard/Button/Button';
 
 
